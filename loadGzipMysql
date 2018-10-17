@@ -1,0 +1,1 @@
+zcat /path/to/file.sql.gz | mysql -u 'root' -p your_database
